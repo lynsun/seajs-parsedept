@@ -31,7 +31,7 @@ examples
 Release History
 ==========
 *	2014-11-10	v1.0.0 release first version
->*    2014-11-10	 v1.0.0 发布第一个版本
+
 
 	
 
